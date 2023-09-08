@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phishing URL Checker</title>
+</head>
+<body>
+    <h1>Phishing URL Checker</h1>
+    <form method="post" action="/check_phishing">
+        <label for="url">Enter a URL:</label>
+        <input type="text" name="url" id="url" required autocomplete="off">
+        <button type="submit">Check</button>
+    </form>
+
+    <script>
+        // Add JavaScript to reset the form fields upon page load (refresh)
+        window.onload = function() {
+            document.getElementById("url").value = "";
+        };
+    </script>
+</body>
+</html>
