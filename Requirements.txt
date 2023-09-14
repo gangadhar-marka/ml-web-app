@@ -1,4 +1,3 @@
-// for deployement
 22. uvicorn
 23. fastapi 
 24. joblib
