@@ -1,4 +1,3 @@
-Important Libraries which used in project 
 1. Pandas
 2. Numpy
 3. Seaborn
