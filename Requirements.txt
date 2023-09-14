@@ -1,3 +1,7 @@
+// for deployement
+22. uvicorn
+23. fastapi 
+24. joblib
 1. Pandas
 2. Numpy
 3. Seaborn
@@ -19,7 +23,4 @@
 19. selenium
 20. NetworkX
 21. Warnings
-// for deployement
-22. uvicorn
-23. fastapi 
-24. joblib
+
